@@ -1,0 +1,225 @@
+/* .a1{
+    list-style:circle;
+} */
+.a12{
+    position: relative;
+    left: 100px;
+    top: 10px;
+    text-decoration: none;
+    font-size: 25px;
+    color: aqua;
+    width: 120px;
+    border: 2px solid black;
+    padding:5px 10px 5px 10px;
+    transition: 1s;
+}
+.a12:hover{
+    position: relative;
+    padding: 5px;
+    width: 120px;
+    border-radius: 30px;
+    border: 2px solid beige;
+    padding:5px 10px 5px 10px;
+    transition: 1s;
+}
+.a5{
+    position: fixed;
+    left:250px;
+    top:90px;
+    color: aquamarine;
+    font-size: large;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.a111{
+    position: absolute;
+    left: 1240px;
+    text-decoration: none;
+    color: aqua;
+    transition: 1s;
+}
+.a111:hover{
+    position: absolute;
+    color: beige;
+    font-size:20px;
+    transition: 1s;
+}
+
+.a11{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: wheat;
+    position: fixed;
+    top: 25px;
+    display: flex;
+    list-style: none;
+}
+
+.a4{
+    text-decoration: none;
+    color: white;
+    position: absolute;
+    left: 1300px;
+    top: 22px;
+    height: 30px;
+    width: 30px;
+    transition: 1s;
+}
+
+.a4:hover{
+    position: absolute;
+    top: 20px;
+    color: beige;
+    font-size:20px;
+    transition: 1s;
+}
+.a4:clicked{
+    transition: 1s;
+}
+
+.a61{
+    color: rgb(180, 205, 210);
+    position: relative;
+    top: 230px;
+    font-size: 70px;
+    left: 470px;
+}
+.a6{
+    color: white;
+    position: relative;
+    font-size: 70px;
+    left: 710px;
+    top: 150px;
+}
+.a7{
+    color: white;
+    position: relative;
+    font-size: 70px;
+    left: 410px;
+    top: 130px;
+}
+
+.a8{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(164, 199, 198);
+    position: absolute;
+    font-size: 17px;
+    text-align: center;
+    left: 500px;
+    right: 500px;
+    top: 410px;
+}
+
+.a9,.a10{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(164, 199, 198);
+    position: absolute;
+    font-size: 17px;
+    left: 120px;
+    top: 625px;
+    width: 110px;
+    border-radius: 30px;
+    padding:20px 35px 20px 35px;
+    border: 2px solid beige;
+    transition: 1s;
+}
+.a9:hover,.a10:hover{
+    color: rgb(0, 0, 0);
+    background-color: aliceblue;
+    /* font-size: x-large; */
+}
+.a10{
+    position: absolute;
+    left: 1250px;
+    width: 100px;
+}
+
+/* .a13{
+    position: absolute;
+    left: 650px;
+    top: 570px;
+    border: 2px solid beige;
+    width: 200px;
+    height: 100px;
+    border-radius: 40px;
+} */
+.a14,.a15,.a16{
+    color: white;
+    position: relative;
+    left: 100px;
+    top: 1000px;
+    font-size: 100px;
+}
+.a17{
+    position: absolute;
+    border: 5px solid wheat;
+    box-shadow: inset;
+    transform:skewX(20deg);
+    left:700px;
+    top: 970px;
+    width: 300px;
+    height: 270px;
+    transition: 1s;
+}
+.a18{
+    position: absolute;
+    border: 5px solid wheat;
+    box-shadow: inset;
+    transform:skewX(18deg);
+    left:1050px;
+    top: 970px;
+    width: 300px;
+    height: 270px;
+    transition: 1s;
+}
+.a19{
+    position: absolute;
+    border: 5px solid wheat;
+    box-shadow: inset;
+    transform:skewX(-18deg);
+    left:700px;
+    top: 1280px;
+    width: 300px;
+    height: 270px;
+    transition: 1s;
+}
+.a20{
+    position: absolute;
+    border: 5px solid wheat;
+    box-shadow: inset;
+    transform:skewX(-18deg);
+    left:1050px;
+    top: 1280px;
+    width: 300px;
+    height: 270px;
+    transition: 1s;
+}
+
+.a17:hover,.a18:hover,.a19:hover,.a20:hover{
+    width: 320px;
+    height: 280px;
+    transition: 1s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .fade-in { 
+    opacity: 0; 
+    transition: opacity 1s ease; 
+}  */
